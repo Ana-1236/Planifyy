@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('/Logos/inicio.jpg');
+    background-image: url('Logos/inicio.jpg');
     background-position: center center;
     background-size: cover;
 }
